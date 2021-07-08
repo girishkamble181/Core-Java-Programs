@@ -1,0 +1,3 @@
+cmd complile command --
+
+javac -d .src/packagename.java
